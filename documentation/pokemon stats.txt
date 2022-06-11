@@ -1,0 +1,65 @@
+List of Pokemon and their stats
+
+1. leafy:
+HP - 85
+ATT - 95
+DEF - 80
+SPATT - 100
+SPDEF - 85
+SPD - 95
+
+2. Flamey:
+HP - 80
+ATT - 75
+DEF - 85
+SPATT - 105
+SPDEF - 90
+SPD - 105
+
+3. Bubbly:
+HP - 110
+ATT - 75
+DEF - 90
+SPATT - 95
+SPDEF - 100
+SPD - 70
+
+4. Beetlebug:
+HP - 75
+ATT - 95
+DEF - 80
+SPATT - 60
+SPDEF - 80
+SPD - 100
+
+5. Misteon:
+HP - 90
+ATT - 65
+DEF - 75
+SPATT - 120
+SPDEF - 100
+SPD - 75
+
+6. Earthborn:
+HP - 80
+ATT - 120
+DEF - 110
+SPATT - 40
+SPDEF - 90
+SPD - 85
+
+7. Birdy:
+HP - 80
+ATT - 105
+DEF - 90
+SPATT - 60
+SPDEF - 90
+SPD - 85
+
+8. Nasty:
+HP - 80
+ATT - 95
+DEF - 75
+SPATT - 100
+SPDEF - 75
+SPD - 100
