@@ -63,3 +63,27 @@ DEF - 75
 SPATT - 100
 SPDEF - 75
 SPD - 100
+
+9. Buzzy:
+HP - 80
+ATT - 80
+DEF - 70
+SPATT - 130
+SPDEF - 90
+SPD - 90
+
+10. Icy:
+HP - 65
+ATT - 45
+DEF - 75
+SPATT - 130
+SPDEF - 130
+SPD - 95
+
+11. Norama:
+HP - 110
+ATT - 100
+DEF - 90
+SPATT - 60
+SPDEF - 80
+SPD - 85

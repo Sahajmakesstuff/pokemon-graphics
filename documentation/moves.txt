@@ -70,3 +70,30 @@ Snarl - 60, 95, special
 Sucker Punch - 70, 100, physical
 Throat Chop - 90, 100, physical
 Night Daze - 85, 95, special
+
+Thunderbolt - 90, 100, special
+Thundershock - 40, 100, special
+Wild Charge - 90, 95, physical
+Thunder Punch - 75, 100, physical
+Thunder Fang - 65, 95, physical
+Thunder - 110, 70, special
+Discharge - 80, 100, special
+Spark - 65, 100, physical
+
+Ice Beam - 90, 100, special
+Blizzard - 110, 70, special
+Icicle Crash - 80, 90, physical
+Ice Punch - 75, 100, physical
+Ice Fang - 65, 95, physical
+Ice Shard - 40, 100, physical
+Icy Wind - 55, 100, special
+Powder Snow - 40, 100, special
+
+Tackle - 40, 100, physical
+Body Slam - 80, 100, physical
+Explosion - 250, 90, physical
+Hyper Beam - 150, 90, special
+Hyper Voice - 90, 100, special
+Headbutt - 70, 100, physical
+Tail Slap - rand(multi hit), 95, physical
+Boomburst - 140, 100, special

@@ -11,18 +11,21 @@ An attempt to make a pokemon game with graphics using the tkinter method for pyt
 
 3. If we click the button for the specific pokemon, it gets added to out party
 
-4. We can fight trainers who have different pokemon (currently 5 to choose from)
+4. We can fight trainers who have different pokemon (currently 8 to choose from)
 	a. beetlebug (bug)
 	b. misteon (fairy)
 	c. earthborn (ground)
 	d. birdy (flying)
 	e. nasty (dark)
+	f. Buzzy (electric)
+	g. Icy (Ice)
+	h. Norama (normal)
 
 5. Each pokemon will have 4 moves to choose from
 
 6. If we win, we can choose to either continue or retire and then it will display our score
 
-7. if we defeat 5 trainers, we win
+7. if we defeat 8 trainers, we win
 
 #Stat Calculation
 1. Each pokemon has 6 stats

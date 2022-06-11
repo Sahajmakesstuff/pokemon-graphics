@@ -1,0 +1,49 @@
+type
+[super effective]
+[not very effective]
+
+grass fire water bug fairy ground flying dark electric ice normal
+
+grass
+[water, ground]
+[fire, bug, flying, ice]
+
+fire
+[grass, bug, ice, fairy]
+[water, ground]
+
+water
+[fire, ground]
+[grass, electric]
+
+bug 
+[grass, dark]
+[fire, fairy, flying]
+
+fairy 
+[bug, dark]
+[fairy]
+
+ground
+[fire, electric]
+[grass, water, flying, ice]
+
+flying
+[grass, bug, ground]
+[electric, ice]
+
+dark
+[]
+[bug, fairy]
+
+electric
+[water, flying]
+[ground]
+
+ice
+[grass, ground, flying]
+[fire]
+
+normal
+[]
+[]
