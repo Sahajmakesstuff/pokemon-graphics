@@ -37,8 +37,8 @@ An attempt to make a pokemon game with graphics using the tkinter method for pyt
 	f. speed
 
 2. Stat Calculation is done as follows:
-	a. HP = [(2 * base + IV)/100] + lvl + 10 to nearest whole number != 0
-	b. Other stats = [(2 * base + IV + lvl) / 100] + 5 * nature boost to nearest whole number != 0
+	a. HP = (2 * base) + lvl + 10 + IV rounded to next whole number
+	b. Other stats = (4/5 * base) + lvl + IV/3 + 5 * natureboost rounded to next whole number
 
 3. Each stat can be altered (boosted or lowered) to +6 or -6 (except hp)
 
